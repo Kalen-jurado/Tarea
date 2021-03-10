@@ -1,0 +1,79 @@
+html {
+    width: 100%;
+    float: left;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+
+.columna-100 {
+    width: 100%;
+    float: left;
+}
+
+.columna-25 {
+    width: 25%;
+    float: left;
+}
+
+.columna-75 {
+    width: 75%;
+    float: left;
+}
+
+.columna-10 {
+    width: 10%;
+    float: left;
+}
+
+.columna-90 {
+    width: 90%;
+    float: left;
+}
+
+.columna-50 {
+    width: 50%;
+    float: left;
+}
+
+nav {
+    width: 100%;
+    float: left;
+}
+
+ul#navbar {
+    list-style: none;
+}
+
+ul#navbar li {
+    display: inline;
+}
+
+.image {
+    width: 100%;
+}
+
+#logo {
+    width: 50%;
+    margin: 0 auto;
+}
+
+nav {
+    background-color: #DDD;
+    
+}
+
+footer {
+    width: 100%;
+    float: left;
+    background-color: #DDD;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.container {
+    min-height: 100vh;
+}
